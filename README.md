@@ -21,6 +21,7 @@
 ### More
 - [leetcode](https://github.com/BatogiX/leetcode) – My LeetCode problem solutions.
 - [FindMTU](https://github.com/BatogiX/FindMTU) – Utility for finding MTU.
+- [settings](https://github.com/BatogiX/settings) - Code Editor settings
 
 ## 🛠️ Languages & Tools
 
