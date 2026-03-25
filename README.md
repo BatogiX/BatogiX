@@ -1,15 +1,15 @@
-# 👋 Hi, I’m BatogiX 
+# Hi, I’m BatogiX 
 
-## 🧑‍💻 About Me
+## About Me
 
 <img align="right" src="https://github.com/BatogiX.png" width="150" style="border-radius:50%">
 
-- 🛠️ Developer passionate about coding in many programming languages.
-- 🦀 Rust & 🐍 Python enthusiast.
-- 🌱 Always learning and building new tools for fun and productivity.
-- 📚 I love open source, automation, and creative problem-solving.
+- Developer passionate about coding in many programming languages.
+- Rust & Python enthusiast.
+- Always learning and building new tools for fun and productivity.
+- I love open source, automation, and creative problem-solving.
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### Rust
 - [logitech-cve](https://github.com/BatogiX/logitech-cve) – Library for interacting with Logitech virtual driver.
@@ -23,7 +23,7 @@
 - [FindMTU](https://github.com/BatogiX/FindMTU) – Utility for finding MTU.
 - [settings](https://github.com/BatogiX/settings) - Code Editor settings
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 ![Rust](https://img.shields.io/badge/-Rust-000?style=flat&logo=rust)
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
@@ -31,7 +31,7 @@
 ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
 ![Zed](https://img.shields.io/badge/-Zed-000?style=flat&logo=zedindustries)
 
-## 📫 How to reach me
+## How to reach me
 
 - Open an issue or discussion in any repo!
 
