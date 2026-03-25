@@ -1,8 +1,8 @@
-# 👋 Hi, I’m BatogiX
-
-<img align="right" src="https://github.com/BatogiX.png" width="150" style="border-radius:50%">
+# 👋 Hi, I’m BatogiX 
 
 ## 🧑‍💻 About Me
+
+<img align="right" src="https://github.com/BatogiX.png" width="150" style="border-radius:50%">
 
 - 🛠️ Developer passionate about coding in many programming languages.
 - 🦀 Rust & 🐍 Python enthusiast.
