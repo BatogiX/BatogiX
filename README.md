@@ -13,7 +13,7 @@
 
 ### Rust
 - [logitech-cve](https://github.com/BatogiX/logitech-cve) – Library for interacting with Logitech virtual driver.
-- [kodik-parser](https://github.com/BatogiX/kodik-parser) – Library for getting direct links to files from Kodik.
+- [kodik](https://github.com/BatogiX/kodik) – CLI and library for getting direct links to video files from Kodik.
 
 ### Python
 - [multitool_bot](https://github.com/BatogiX/multitool_bot) – A multipurpose bot in Python.
